@@ -1,0 +1,22 @@
+.articleImage {
+  width: 100%;
+}
+.post {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  border-bottom: 1px solid black;
+}
+.paginator{
+  margin-bottom: 25px;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+.paginatorNumber{
+  margin:0 10px;
+  font-size: 15px;
+  font-weight: 800;
+}
+.post .h1{
+  cursor: pointer;
+}
